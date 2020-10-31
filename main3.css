@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+    font-family: Vazir;
+}
+
+.articles-card{
+    margin: 45px ;
+    margin-left:100px;
+    width: 350px;
+    height: 300px;
+    background-color: lightcyan;
+    border-radius: 25px;
+    padding: 10px;
+    float: left;
+    
+}
+.div-header{
+    text-align: center;
+}
+.border-card{
+    border: 2px solid rgb(255, 228, 170);
+}
+.footer-article{
+    position:fixed;
+    background-color:rgb(49, 49, 49);
+    color:white;
+    margin-bottom:0px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 25px;
+}
